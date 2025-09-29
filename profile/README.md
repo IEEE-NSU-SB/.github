@@ -65,22 +65,22 @@ We're constantly building new tools and platforms to enhance the IEEE NSU SB exp
 <tr>
 <td align="center" width="25%">
 <img src="https://ieeensusb.org/media_files/sc_ag_logos/RAS.png" width="120px" alt="IEEE RAS"/>
-<br><b>IEEE RAS SBC</b>
+<br><b>IEEE NSU RAS SBC</b>
 <br>Robotics & Automation Society
 </td>
 <td align="center" width="25%">
 <img src="https://ieeensusb.org/media_files/sc_ag_logos/logo_all-02.png" width="120px" alt="IEEE PES"/>
-<br><b>IEEE PES SBC</b>
+<br><b>IEEE NSU PES SBC</b>
 <br>Power & Energy Systems Society
 </td>
 <td align="center" width="25%">
 <img src="https://ieeensusb.org/media_files/sc_ag_logos/IAS_LOGO.png" width="120px" alt="IEEE IAS"/>
-<br><b>IEEE IAS SBC</b>
+<br><b>IEEE NSU IAS SBC</b>
 <br>Industry Applications Society
 </td>
 <td align="center" width="25%">
 <img src="https://ieeensusb.org/media_files/sc_ag_logos/WIE-LOGO.png" width="120px" alt="IEEE WIE"/>
-<br><b>IEEE WIE AG</b>
+<br><b>IEEE NSU WIE AG</b>
 <br>Women in Engineering
 </td>
 </tr>
